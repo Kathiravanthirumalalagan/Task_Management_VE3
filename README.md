@@ -2,9 +2,9 @@
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
--
 - ## Overview
 
 ### The challenge
@@ -35,6 +35,10 @@ Expected Behaviour:
 
 Bonus: 
   - The tasks can be dragged and dropped to a new column.
+
+### Screenshot
+
+
 
 ### Built with
 
